@@ -1,0 +1,15 @@
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\bin\Debug\net5.0\PTDuc.KickOff.DL.deps.json
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\bin\Debug\net5.0\PTDuc.KickOff.DL.runtimeconfig.json
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\bin\Debug\net5.0\PTDuc.KickOff.DL.runtimeconfig.dev.json
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\bin\Debug\net5.0\PTDuc.KickOff.DL.dll
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\bin\Debug\net5.0\ref\PTDuc.KickOff.DL.dll
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\bin\Debug\net5.0\PTDuc.KickOff.DL.pdb
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\PTDuc.KickOff.DL.csproj.AssemblyReference.cache
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\PTDuc.KickOff.DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\PTDuc.KickOff.DL.AssemblyInfoInputs.cache
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\PTDuc.KickOff.DL.AssemblyInfo.cs
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\PTDuc.KickOff.DL.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\PTDuc.KickOff.DL.dll
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\ref\PTDuc.KickOff.DL.dll
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\PTDuc.KickOff.DL.pdb
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.DL\obj\Debug\net5.0\PTDuc.KickOff.DL.genruntimeconfig.cache
