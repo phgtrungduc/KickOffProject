@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using PTDuc.KickOff.DL.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,9 +26,7 @@ namespace PTDuc.KickOff.PL.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var context = new KickOffContext();
-            var studentsWithSameName = context.TestTables.ToList();
-            return Ok(studentsWithSameName);
+            return Ok(1);
         }
     }
 }

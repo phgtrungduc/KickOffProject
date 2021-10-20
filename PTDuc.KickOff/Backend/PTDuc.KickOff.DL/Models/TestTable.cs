@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace PTDuc.KickOff.DL.Models
 {
-    public partial class TestTable
+    public partial class TestTable:BaseEntity
     {
         public Guid TestId { get; set; }
         public int? TestInt { get; set; }

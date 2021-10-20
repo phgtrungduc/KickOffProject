@@ -6,15 +6,17 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="5.0.11" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.Runtime.Extensions" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PTDuc.KickOff.BL\PTDuc.KickOff.BL.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\PTDuc.KickOff.DL\PTDuc.KickOff.DL.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,11 @@
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\bin\Debug\net5.0\PTDuc.KickOff.BL.deps.json
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\bin\Debug\net5.0\PTDuc.KickOff.BL.dll
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\bin\Debug\net5.0\ref\PTDuc.KickOff.BL.dll
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\bin\Debug\net5.0\PTDuc.KickOff.BL.pdb
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\obj\Debug\net5.0\PTDuc.KickOff.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\obj\Debug\net5.0\PTDuc.KickOff.BL.AssemblyInfoInputs.cache
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\obj\Debug\net5.0\PTDuc.KickOff.BL.AssemblyInfo.cs
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\obj\Debug\net5.0\PTDuc.KickOff.BL.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\obj\Debug\net5.0\PTDuc.KickOff.BL.dll
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\obj\Debug\net5.0\ref\PTDuc.KickOff.BL.dll
+D:\Tài liệu\Đồ án\Code\KickOffProject\PTDuc.KickOff\Backend\PTDuc.KickOff.BL\obj\Debug\net5.0\PTDuc.KickOff.BL.pdb

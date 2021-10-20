@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace PTDuc.KickOff.DL.Models
 {
-    public partial class User
+    public partial class User : BaseEntity
     {
         public string Username { get; set; }
         public string Password { get; set; }

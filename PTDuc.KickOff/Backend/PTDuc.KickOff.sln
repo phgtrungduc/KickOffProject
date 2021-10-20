@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTDuc.KickOff.DL", "PTDuc.KickOff.DL\PTDuc.KickOff.DL.csproj", "{0AD9911F-E5B1-4EA6-A235-4F303FE02663}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTDuc.KickOff.BL", "PTDuc.KickOff.BL\PTDuc.KickOff.BL.csproj", "{883741AE-CC5B-4479-9496-A0D4A4C5455B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTDuc.KickOff.BL", "PTDuc.KickOff.BL\PTDuc.KickOff.BL.csproj", "{883741AE-CC5B-4479-9496-A0D4A4C5455B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTDuc.KickOff.PL", "PTDuc.KickOff.PL\PTDuc.KickOff.PL.csproj", "{C54699D2-644F-44F3-8254-427D24290724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PTDuc.KickOff.PL", "PTDuc.KickOff.PL\PTDuc.KickOff.PL.csproj", "{C54699D2-644F-44F3-8254-427D24290724}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
