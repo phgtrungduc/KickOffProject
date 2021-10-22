@@ -1,15 +1,14 @@
 ﻿using PTDuc.KickOff.BL.Interfaces;
 using PTDuc.KickOff.DL.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
 
 namespace PTDuc.KickOff.BL.BusinessLayer
 {
     public class BLBase<TEntity> : IBLBase<TEntity>
     {
+        protected KickOffContext context;
+        protected DbSet<BaseEntity> entity;
         public ServiceResult Delete(TEntity entity)
         {
             throw new NotImplementedException();
@@ -17,7 +16,9 @@ namespace PTDuc.KickOff.BL.BusinessLayer
 
         public ServiceResult GetAll()
         {
-            throw new NotImplementedException();
+            var res = new ServiceResult();
+            res.Data = entity;
+            return res;
         }
 
         public ServiceResult GetByID(string Id)

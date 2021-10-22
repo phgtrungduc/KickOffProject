@@ -1,4 +1,4 @@
-# kickoff
+# ptd.kickoff
 
 ## Project setup
 ```
