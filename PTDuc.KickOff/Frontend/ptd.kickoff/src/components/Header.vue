@@ -1,7 +1,7 @@
 <template>
   <v-app-bar app rounded color="#FBFCFC" height="100px" id="app-bar">
     <!-- dark inverted-scroll -->
-    <div class="d-flex align-center">
+    <div class="d-flex align-center" id="kickoff-logo" @click="logoClick">
       <v-img
         alt="Vuetify Logo"
         class="shrink mr-2"
@@ -16,6 +16,7 @@
       <router-link to="/result"><div class="header-item">TRẬN ĐẤU</div></router-link>
       <div class="header-item">ĐỘI BÓNG</div>
       <div class="header-item">VỀ CHÚNG TÔI</div>
+      <div class="header-item">DỰ ĐOÁN</div>
     </div>
     <v-spacer></v-spacer>
     <div class="search-box d-flex">
@@ -59,3 +60,13 @@
 }
 @import "../assets/styles/search-box.css";
 </style>
+<script>
+export default {
+  name:"Header",
+  methods:{
+    logoClick:function(){
+      this.$router.push("/")
+    }
+  }
+}
+</script>

@@ -5,7 +5,7 @@
       <div class="header-box row justify-content-between align-items-center">
         <div class="header-text col-5">Trận đấu sắp tới</div>
         <div class="col-2">
-          <router-link to="/result"><div class="header-icon"></div></router-link>
+          <router-link to="/abc"><div class="header-icon"></div></router-link>
         </div>
       </div>
       <div class="match-box justify-content-center">

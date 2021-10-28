@@ -1,5 +1,5 @@
 <template>
-  <div class="match d-flex align-items-center">
+  <div class="match d-flex align-items-center" v-on:click="clickHere">
     <div class="home-team d-flex align-items-center col-3">
       <div class="flag mr-2">
         <span class="flag-icon flag-icon-it"></span>
@@ -44,6 +44,13 @@
 
 export default {
   name: "Match",
+  methods:{
+    clickHere:function(){
+      this.$router.push("/result")
+      console.log("Phuowng Trung Dwcs")
+      
+    }
+  }
 };
 
 </script>
